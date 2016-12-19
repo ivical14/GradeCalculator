@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradeCalculator</string>
+    <string name="title_activity_calc_settings">calc_settings</string>
+</resources>
